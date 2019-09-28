@@ -9,5 +9,26 @@ font-family: 'Abel', sans-serif;
 #container {
 background-color: transparent;
 max-height: 600px;
-padding: 300px;
+width: 80%;
+padding: 20px;
+}
+
+header h1 {
+
+    text-align: center;
+    font-size: 55px;
+}
+
+nav ul { 
+
+
+}
+
+nav li{
+
+
+}
+
+nav a{ 
+
 }
