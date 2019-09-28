@@ -5,3 +5,9 @@ font-family: 'Abel', sans-serif;
 
 
 }
+
+#container {
+background-color: white;
+max-height: 600px;
+padding: 300px;
+}
