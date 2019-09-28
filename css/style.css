@@ -20,6 +20,8 @@ header h1 {
 }
 
 nav ul { 
+list-style:none;
+text align: center;
 
 
 }
