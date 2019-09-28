@@ -21,16 +21,19 @@ header h1 {
 
 nav ul { 
 list-style:none;
-text align: center;
+text-align: center;
 display: inline;
 
 
 }
 
-nav li{
+nav li {
+display: inline-block;
+font: 16px;
 
 
 }
+
 
 nav a{ 
 
