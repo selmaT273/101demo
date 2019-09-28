@@ -1,9 +1,6 @@
 body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: lightslategray;
-  }
-  p {
-    color: white;
-  }
+background-image: linear-gradient(90deg,#666666, #ffffff);
+
+
+
+}
