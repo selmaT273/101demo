@@ -7,7 +7,7 @@ font-family: 'Abel', sans-serif;
 }
 
 #container {
-background-color: white;
+background-color: transparent;
 max-height: 600px;
 padding: 300px;
 }
